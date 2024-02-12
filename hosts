@@ -1,4 +1,4 @@
-[java_servers]
+[target_host1]
 172.31.8.176
-[git_servers]
-172.31.7.178
+[target_host2]
+172.31.8.174
